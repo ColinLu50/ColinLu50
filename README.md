@@ -1,6 +1,6 @@
 Learner.
 
-Homepage：[https://colinlu50.github.io/](https://colinlu50.github.io/)
+Homepage：[colinlu50.github.io](https://colinlu50.github.io/)
 
 PhD @HKUST
 
